@@ -1,0 +1,3 @@
+https://www.data.gouv.fr/fr/datasets/le-prix-de-limmobilier-a-pau/
+
+http://www.lesclesdumidi.com/csv_graph/64000.csv
